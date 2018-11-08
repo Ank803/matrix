@@ -1,0 +1,26 @@
+
+.contaner {
+  border:2px solid Violet;
+  height: 400px;
+  width: 400px;
+  display: inline-block;
+  margin: 100px 100px 100px 400px;
+
+}
+body{
+     margin: 0;
+     padding: 0;
+   }
+
+
+.smallcontener{
+display: table-cell;
+border: 0px solid blue;
+padding: 0px;
+margin: 0px;
+float: left;
+}
+
+.color{
+ background-color: white !important;
+}
